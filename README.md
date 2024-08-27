@@ -1,4 +1,1 @@
-
-# hello
-
-My Name is try bunheng
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
